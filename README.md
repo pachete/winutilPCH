@@ -12,8 +12,6 @@ irm "" | iex
 irm "" | iex
 ```
 
-If you have Issues, refer to [Known Issues](https://christitustech.github.io/winutil/KnownIssues/)
-
 ## 🎓 Documentation
 
 ### [WinUtil Official Documentation](https://christitustech.github.io/winutil/)
